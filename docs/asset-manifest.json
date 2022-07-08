@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.335b8f9c.css",
+    "main.js": "/static/js/main.34f82f39.js",
+    "static/media/thepeaky.jpg": "/static/media/thepeaky.b265284a9d8c9b368383.jpg",
+    "static/media/minions.jpg": "/static/media/minions.a56ee0d907a1b048d4e0.jpg",
+    "static/media/homemovies.jpg": "/static/media/homemovies.ea0cc2c2750d14298fc7.jpg",
+    "index.html": "/index.html",
+    "main.335b8f9c.css.map": "/static/css/main.335b8f9c.css.map",
+    "main.34f82f39.js.map": "/static/js/main.34f82f39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.335b8f9c.css",
+    "static/js/main.34f82f39.js"
+  ]
+}
